@@ -1,0 +1,9 @@
+﻿body {
+    background: url(118.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment:fixed;
+}
+.data{
+   font-size:larger;
+   font-family:fantasy;
+}
